@@ -7,3 +7,4 @@ MarkupSafe
 Werkzeug
 scikit-learn
 numpy==1.26.4
+streamlit
